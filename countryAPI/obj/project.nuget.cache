@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mqH1oiMIStkvOFAu+3Oa7wA18ZGmiSkcOtE5S38wkb/ChRxckJgMyd8Dvo03TUPxSCqjpDYbDv6ir90eFiuaHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\countryAPI\\countryAPI\\countryAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
